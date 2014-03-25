@@ -1,0 +1,5 @@
+export(asinh_trans)
+export(formatClip)
+export(tidy.all)
+import(formatR)
+importFrom(stats,optimize)
